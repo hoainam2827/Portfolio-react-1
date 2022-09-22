@@ -1,10 +1,10 @@
 import React from 'react'
 import './Projects.css'
 
-import Ecom from '../../assets/images/ecom.png'
-import Blog from '../../assets/images/blog.png'
-import Next from '../../assets/images/next.png'
-import Social from '../../assets/images/social.png'
+import Ecom from '../../assets/images/ecom1.png'
+import Blog from '../../assets/images/blog1.jpg'
+import Next from '../../assets/images/next1.png'
+import Social from '../../assets/images/social1.png'
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
